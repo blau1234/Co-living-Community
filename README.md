@@ -13,6 +13,4 @@ It integrates BIM models, geospatial information, and interactive 3D visualizati
 - Cloud deployment and scalability using Google Cloud services.
 
 ## System Architecture
-![Platform Architecture](images/digital_twin_architecture.png)
-> Diagram showing BIM data ingestion, processing pipeline, and 3D visualization workflow.
 
