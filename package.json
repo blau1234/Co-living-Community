@@ -1,0 +1,32 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@thatopen/components": "^2.4.3",
+    "@thatopen/components-front": "^2.4.3",
+    "@thatopen/fragments": "^2.4.0",
+    "axios": "^1.7.9",
+    "cesium": "^1.125.0",
+    "gsap": "^3.12.7",
+    "three": "^0.160.1",
+    "vue": "^3.3.0",
+    "web-ifc": "^0.0.66",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0",
+    "vite-plugin-cesium": "^1.2.23"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

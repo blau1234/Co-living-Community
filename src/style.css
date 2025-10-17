@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+canvas {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.lil-gui {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+viewerContainer {
+        display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+      }
+      #controlsContainer {
+        margin: 10px;
+      }

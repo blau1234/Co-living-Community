@@ -1,0 +1,8 @@
+[
+    {
+        "origin": ["https://co-living-451520.ey.r.appspot.com", "http://localhost:8080"],
+        "method": ["GET", "HEAD", "OPTIONS"],
+        "responseHeader": ["Content-Type", "Access-Control-Allow-Origin"],
+        "maxAgeSeconds": 3600
+    }
+] 
