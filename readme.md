@@ -4,6 +4,7 @@
 
 > Interactive web platform for multi-scale urban analysis of Munich's Paketposthalle district, featuring an integrated digital twin system for co-living community visualization and planning.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/blau1234/Co-living-Community)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.3-4FC08D?logo=vue.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-0.160-000000?logo=three.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)
