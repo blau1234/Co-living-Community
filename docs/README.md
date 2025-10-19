@@ -1,4 +1,3 @@
-# Co-living Community Platform
 
 ![Project Interface](https://raw.githubusercontent.com/blau1234/Co-living-Community/master/images/2.png)
 

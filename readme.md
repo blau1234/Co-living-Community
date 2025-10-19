@@ -1,4 +1,3 @@
-# Co-living Community Platform
 
 ![Project Interface](./images/2.png)
 
