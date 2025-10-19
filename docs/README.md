@@ -1,6 +1,6 @@
 # Co-living Community Platform
 
-![Project Interface](../images/2.png)
+![Project Interface](https://raw.githubusercontent.com/blau1234/Co-living-Community/master/images/2.png)
 
 > Interactive web platform for multi-scale urban analysis of Munich's Paketposthalle district, featuring an integrated digital twin system for co-living community visualization and planning.
 
@@ -21,7 +21,7 @@ This platform combines cutting-edge web technologies with advanced architectural
 
 ### Three Interactive Visualization Modes
 
-![three modes](../images/4.png)
+![three modes](https://raw.githubusercontent.com/blau1234/Co-living-Community/master/images/4.png)
 
 #### 1. Project Mode
 - **3D Building Visualization**: Explore detailed architectural models built with Three.js
@@ -57,7 +57,7 @@ This platform combines cutting-edge web technologies with advanced architectural
 
 ### Architecture Overview
 
-![System Architecture](../images/1.png)
+![System Architecture](https://raw.githubusercontent.com/blau1234/Co-living-Community/master/images/1.png)
 
 #### 1. Data Resource
 - **BIM Data**: Revit models (LOD 300-400) converted to IFC, frag/json formats
