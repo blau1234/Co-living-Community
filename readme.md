@@ -58,8 +58,6 @@ This platform combines cutting-edge web technologies with advanced architectural
 
 ![System Architecture](./images/1.png)
 
-The platform is built on a modular architecture consisting of three main layers:
-
 #### 1. Data Resource
 - **BIM Data**: Revit models (LOD 300-400) converted to IFC, frag/json formats
 - **City Data**: CityGML files processed into 3D Tiles and OBJ/glTF formats via FME
@@ -76,22 +74,6 @@ The platform is built on a modular architecture consisting of three main layers:
 - **Database**: MongoDB for user data and messages
 - **Hosting**: Google Cloud Platform (App Engine)
 - **Configuration**: `app.yaml` for deployment settings
-
-### Development Tools & Workflow
-
-![Development Tools](./images/3.png)
-
-The project leverages a comprehensive technology ecosystem:
-
-| Category | Tools & Technologies |
-|----------|---------------------|
-| **Scene Modeling & Rendering** | Rhinoceros, D5render |
-| **Environmental Simulation** | Autodesk Forma (lighting, wind, solar analysis) |
-| **Point Cloud Processing** | QGIS, CloudCompare |
-| **AI Resources** | Stable Audio (music generation) |
-| **Programming** | Visual Studio, Cursor AI, Vite, Vue.js, Three.js, Thatopen.js |
-| **Cloud Platform** | Google Cloud, Node.js, Express, MongoDB |
-| **External APIs** | Cesium Ion (3D tiles hosting) |
 
 ### Core Dependencies
 
